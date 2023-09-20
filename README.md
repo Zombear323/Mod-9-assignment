@@ -20,10 +20,10 @@ Weekly Challenge 9
 <p>THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under</p>
 
 <p>WHEN I enter my GitHub *username*</p>
-<p>THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile</p>
+<p>THEN this is added to the section of the README entitled *Questions*, with a link to my GitHub profile</p>
 
 <p>WHEN I enter my *email* address</p>
-<p>THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions</p>
+<p>THEN this is added to the section of the README entitled *Questions*, with instructions on how to reach me with additional questions</p>
 
 <p>WHEN I click on the links in the *Table of Contents*</p>
 <p>THEN I am taken to the corresponding section of the README</p>
